@@ -2,7 +2,20 @@
 <h3 align="center">Front-End Developer — React & Next.js Specialist</h3>
 
 <p align="center">
- Building scalable front-end architectures with clean code, modern patterns, and great UI/UX.
+  Building scalable front-end architectures with clean code, modern patterns, and great UI/UX.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mAmidMokhtari/mAmidMokhtari/raw/main/january2025_cv_m.amid%20mokhtari_Front-End.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobat" />
+  </a>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/mohammad-amid-mokhtari-450baa211" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <br/><br/>
+  📧 m.amid.mokhtari@gmail.com
+ 
 </p>
 
 ---
@@ -19,26 +32,9 @@ I’m a Front-End Developer focused on building **high-performance**, **scalable
 ---
 
 ## What I Do Best
-
-- ⚡ Architecting scalable & modular front-end systems  
-- 🎯 Writing clean, maintainable code using solid patterns  
-- 🧩 Building form engines, dynamic dashboards & ERP modules  
-- 🎨 Crafting responsive, accessible, UX-driven interfaces  
-- 🚀 Integrating high-performance APIs & real-time features  
-- 🔄 Optimizing performance & reducing technical debt  
-
----
-
-
-## Connect With Me
-
-<div>
-  
-  <a href="https://www.linkedin.com/in/mohammad-amid-mokhtari-450baa211" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <br/><br/>
-  📧 **m.amid.mokhtari@gmail.com**
-
-</div>
+- Architect scalable & modular front-end systems  
+- Write clean, maintainable code using solid patterns  
+- Build form engines, dynamic dashboards & ERP modules  
+- Craft responsive, accessible, UX-driven interfaces  
+- Optimize performance & reduce technical debt  
+- Integrate high-performance APIs & real-time features  
