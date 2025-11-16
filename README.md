@@ -9,14 +9,7 @@
   <a href="https://github.com/mAmidMokhtari/mAmidMokhtari/raw/main/january2025_cv_m.amid%20mokhtari_Front-End.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mohammad-amid-mokhtari-450baa211" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:m.amid.mokhtari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
