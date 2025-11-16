@@ -20,10 +20,6 @@
 
 ---
 
-## About Me
-I’m a Front-End Developer focused on building **high-performance**, **scalable**, and **reliable** web applications powered by React and Next.js.
-
----
 
 ## What I Do Best
 - Architect scalable & modular front-end systems  
