@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mAmidMokhtari/mAmidMokhtari/raw/main/jul2026_cv_singlePage.pdf" target="_blank">
+  <a href="https://github.com/mAmidMokhtari/mAmidMokhtari/raw/main/sep2026_cv_singlePage.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
   </a>
   
