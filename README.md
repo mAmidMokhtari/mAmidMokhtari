@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mAmidMokhtari/mAmidMokhtari/raw/main/amid-mokhtari-cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
-  </a>
+<a href="https://amid7mokhtari.me/amid-mokhtari-cv.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
+</a>
   
 </p>
 
